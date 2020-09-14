@@ -646,3 +646,6 @@ function calculateWinner(squares) {
 
 ```
 
+Checkout [Vue vs Mithril](https://github.com/ClimenteA/vue-mithril-comparison)
+
+

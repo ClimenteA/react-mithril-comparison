@@ -5,7 +5,7 @@ Took each example from [React](https://reactjs.org/) docs and made it in [Mithri
 
 Keep in mind that Mithril has ZERO dependencies and only 10kb (gzipped)!
 
-No built tools, no npm, no fluf just plug and play.
+No built tools, no npm, just plug and play.
 
 
 ```javascript

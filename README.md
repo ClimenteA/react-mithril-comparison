@@ -322,8 +322,6 @@ m.render(
 // Tic tac toe final react tutorial result
 // https://codepen.io/gaearon/pen/gWWZgR?editors=0010
 
-// [STATE ACTIONS VIEW example](https://flems.io/#0=N4IgZglgNgpgziAXAbVAOwIYFsZJAOgAsAXLKEAGhAGMB7NYmBvEAXwvW10QICsEqdBk2J4hcYgAIAysQyNJAXkkAKAJRKAfKuAAdNJMl0Arg0SSADPtZr9+8VICC1YhHpwlMrTv2GIaanN1b2l8EwYAagiKX0kAExhA1Q1FbVDw4gBaTOtbNHt3KQA1CBgAd08VaQpHFM1YrBUAcjiIADcmmINDSUamwgBGTskAAwBhWlNicwASYHTJhlYRtS6e3uaAI2NiYnph4HpqKAhqAGtzR3x-anZJXRAIh9XYwz7t3f2KSUOAk-PLvgErdvg8ciA8oY8vosPgsItiCo4rRqMYcAx8JtaHEAJ7fYKpH6xBxeZSyeQwdTEwqSRyeZyudxVSH3boAJxgxGMbIMem6hjapTKQTqkhK5SqNRZrFy+koIDgMFgLjcaAQPAAHIgLGwOCBMDg8GE4AIaPRGMweGwALpUE5oM7q1D6rh4LAQYiENnQeXc8g8EjEAAOcEQAHow6Yg2cAOZhWhYMPuz3eqAAAQG+EzADYkx6vdB8Px5cQcUHuArqN6g6JWNbWEA)
-
 /*
 
 function Square(props) {
